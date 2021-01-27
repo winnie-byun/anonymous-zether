@@ -1,4 +1,5 @@
-const HDWalletProvider = require("truffle-hdwallet-provider-klaytn");
+// chainId should be set in HDWalletProvider
+const HDWalletProvider = require("@truffle/hdwallet-provider");
 
 const privateKey = "0x8a1b191dd20f4e0636f828bb8bab202a6df55d79a852a3416bd862b9a0fd4ebf";
 
