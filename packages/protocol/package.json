@@ -7,6 +7,7 @@
     "@truffle/contract": "^4.3.4",
     "bn.js": "^5.1.1",
     "elliptic": "^6.5.1",
+    "truffle-hdwallet-provider-klaytn": "^1.0.13-a",
     "web3": "^1.2.4"
   },
   "devDependencies": {
